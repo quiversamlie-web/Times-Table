@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Verdana,  sans-serif; /* keluarga font */
+    font-size: 20t;
+    background-color: #d8bcb71a;
+    color: #009af9; 
+}
+h1 {
+    color: #0037ff;
+    font-size: 40pt;
+    font-family: Georgia, Times, serif;
+    border-bottom: 2px solid #0037ff;
+    padding-bottom: 2px;
+    text-align: center;
+}
+h2 {
+    color: #0037ff;
+    font-size: 30pt;
+    font-family: Georgia, Times, serif;
+}
+h3 {
+    color: #0037ff;
+    font-size: 30pt;
+    font-family: Georgia, Times, serif;
+    text-align: center;
+
+}
